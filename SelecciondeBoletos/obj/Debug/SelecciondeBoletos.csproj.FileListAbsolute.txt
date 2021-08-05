@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\VISUAL\SelecciondeBoletos\bin\Debug\SelecciondeBoletos.exe.config
+C:\Users\HP\Documents\VISUAL\SelecciondeBoletos\bin\Debug\SelecciondeBoletos.exe
+C:\Users\HP\Documents\VISUAL\SelecciondeBoletos\bin\Debug\SelecciondeBoletos.pdb
+C:\Users\HP\Documents\VISUAL\SelecciondeBoletos\obj\Debug\SelecciondeBoletos.csprojAssemblyReference.cache
+C:\Users\HP\Documents\VISUAL\SelecciondeBoletos\obj\Debug\SelecciondeBoletos.FormSeleccionBoletos.resources
+C:\Users\HP\Documents\VISUAL\SelecciondeBoletos\obj\Debug\SelecciondeBoletos.Properties.Resources.resources
+C:\Users\HP\Documents\VISUAL\SelecciondeBoletos\obj\Debug\SelecciondeBoletos.csproj.GenerateResource.cache
+C:\Users\HP\Documents\VISUAL\SelecciondeBoletos\obj\Debug\SelecciondeBoletos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\VISUAL\SelecciondeBoletos\obj\Debug\SelecciondeBoletos.exe
+C:\Users\HP\Documents\VISUAL\SelecciondeBoletos\obj\Debug\SelecciondeBoletos.pdb
